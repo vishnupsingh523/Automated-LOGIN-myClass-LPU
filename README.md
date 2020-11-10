@@ -8,6 +8,7 @@ In this repository with the help of selenium and python I have made a program to
 <h4>Install the selenium where you are making your project or to your system using the pip command</h4>
 ```
 pip install selenium
+
 ```
 <li>Chrome driver should be installed to your system</li>
   
