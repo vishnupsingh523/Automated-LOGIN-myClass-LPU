@@ -6,10 +6,7 @@ In this repository with the help of selenium and python I have made a program to
 <h2>Requirements:</h2>
 <li>Selenium should be installed</li>
 <h4>Install the selenium where you are making your project or to your system using the pip command</h4>
-```
-pip install selenium
-
-```
+```pip install selenium```
 <li>Chrome driver should be installed to your system</li>
   
 <h4>To install the 'selenium chromedriver' first you have to install chocolatey in your system</h4>
